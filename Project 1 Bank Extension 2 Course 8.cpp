@@ -10,9 +10,9 @@ using namespace std;
 //using namespace DateLib;
 //using namespace MyString;
 
-const string ClientsFile = "Clinets.txt";
+const string ClientsFile = "data/Clinets.txt";
 
-const string UsersFile = "Users.txt";
+const string UsersFile = "data/Users.txt";
 
 enum ePermission {
 FullAccess = -1,
